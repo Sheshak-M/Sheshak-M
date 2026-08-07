@@ -135,16 +135,13 @@ Java • OOP • DSA
 </table>
 
 ---
-
 # 📊 GitHub Analytics
-
-<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sheshak-M&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sheshak-M&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheshak-M&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheshak-M&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -152,7 +149,7 @@ Java • OOP • DSA
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheshak-M&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheshak-M&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -222,13 +219,16 @@ Java • OOP • DSA
 
 ---
 
+---
+
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sheshak-M/Sheshak-M/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sheshak-M/Sheshak-M/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sheshak-M/Sheshak-M/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Sheshak-M/Sheshak-M/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
