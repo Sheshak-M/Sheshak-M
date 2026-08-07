@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="assets/profile/profile.png" width="180" alt="Profile Picture"/>
+<img src="assets/banner/banner.png" width="100%" alt="Banner"/>
 
 # 👋 Hi, I'm Sheshak
 
 ### Software Engineer • Java Developer • Cybersecurity Enthusiast
+
+...
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Building+Real-World+Software;Java+Developer;Backend+Development;Data+Structures+%26+Algorithms;Cybersecurity+Learner;Linux+Enthusiast;Always+Learning..." />
 
