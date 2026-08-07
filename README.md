@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="assets/banner/banner.png" width="100%" alt="Sheshak Banner"/>
+<img src="assets/profile/profile.png" width="180" alt="Profile Picture"/>
 
 # 👋 Hi, I'm Sheshak
 
-### Aspiring Software Engineer • Java Developer • Cybersecurity Enthusiast
+### Software Engineer • Java Developer • Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Building+Real-World+Projects;Java+Developer;Data+Structures+%26+Algorithms;Learning+Spring+Boot;Exploring+Cybersecurity;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Building+Real-World+Software;Java+Developer;Backend+Development;Data+Structures+%26+Algorithms;Cybersecurity+Learner;Linux+Enthusiast;Always+Learning..." />
 
 <br>
 
 <a href="https://github.com/Sheshak-M">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sheshak-m-9ab65632b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:sheshak1006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
