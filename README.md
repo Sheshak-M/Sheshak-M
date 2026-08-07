@@ -84,24 +84,55 @@
 - 🐧 Working with Linux every day
 
 ---
+---
 
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/Sheshak-M/Leetecode-problem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheshak-M&repo=Leetecode-problem&theme=github_dark&hide_border=true"/>
-</a>
+<td width="50%">
 
-<a href="https://github.com/Sheshak-M/neetcode-submissions">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheshak-M&repo=neetcode-submissions&theme=github_dark&hide_border=true"/>
-</a>
+## 🛡️ SmartDefend AI
 
-<a href="https://github.com/Sheshak-M/Arpspoffer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheshak-M&repo=Arpspoffer&theme=github_dark&hide_border=true"/>
-</a>
+Enterprise-inspired cybersecurity platform built with Python.
 
-</div>
+### Features
+
+- 🔍 Threat Detection
+- 📊 Security Dashboard
+- 🛡️ SOC Monitoring
+- 📑 Report Generation
+
+**Tech Stack**
+
+Python • Flask • SQLite • HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+## ☕ Java DSA
+
+Collection of Data Structures and Algorithms problems solved in Java.
+
+### Topics
+
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+
+**Tech Stack**
+
+Java • OOP • DSA
+
+</td>
+
+</tr>
+</table>
 
 ---
 
