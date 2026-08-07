@@ -104,15 +104,21 @@
 
 # 📊 GitHub Analytics
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sheshak-M&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sheshak-M&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheshak-M&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheshak-M&theme=github-dark&hide_border=true"/>
 
-<br><br>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheshak-M&layout=compact&theme=github_dark&hide_border=true"/>
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheshak-M&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -120,21 +126,25 @@
 
 # 📈 Contribution Graph
 
-<div align="center">
+<h2 align="center">📈 Contribution Activity</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheshak-M&theme=github-dark&hide_border=true"/>
+<p align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheshak-M&theme=github-compact&hide_border=true"/>
+
+</p>
 
 ---
 
 # 🏆 Achievements
 
-<div align="center">
+<h2 align="center">🏆 Achievements</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sheshak-M&theme=algolia&no-frame=true&row=1&column=6"/>
+<p align="center">
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Sheshak-M&theme=algolia&row=1&column=7&no-frame=true&margin-w=12"/>
+
+</p>
 
 ---
 
@@ -142,7 +152,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sheshak-M&style=for-the-badge&color=00C853"/>
+<img src="https://komarev.com/ghpvc/?username=Sheshak-M&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
 
 </div>
 
